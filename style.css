@@ -1,0 +1,15 @@
+#image {
+    width: 100%;
+    opacity: 0.3;
+}
+
+#main {
+    background-color: navy;
+    color: aliceblue;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
